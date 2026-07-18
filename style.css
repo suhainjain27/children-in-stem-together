@@ -1,0 +1,41 @@
+body{
+    font-family:Arial, sans-serif;
+    margin:0;
+    background:#f8fbff;
+    text-align:center;
+}
+
+header{
+    padding:40px;
+}
+
+.logo{
+    width:280px;
+    max-width:90%;
+}
+
+.tagline{
+    color:#666;
+    font-size:18px;
+}
+
+.join{
+    margin:60px auto;
+    width:80%;
+    max-width:700px;
+}
+
+.button{
+    display:inline-block;
+    margin-top:20px;
+    background:#2b72d6;
+    color:white;
+    text-decoration:none;
+    padding:15px 35px;
+    border-radius:10px;
+    font-size:20px;
+}
+
+.button:hover{
+    background:#1d57aa;
+}
